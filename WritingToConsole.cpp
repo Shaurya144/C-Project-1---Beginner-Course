@@ -4,11 +4,11 @@
 using namespace std;
 
 int main(){
-    double result = floor(1.2);
-    double power = pow(2, 3);
+    // double result = floor(1.2);
+    // double power = pow(2, 3);
     // Program to calculate the area of a circle
 
-    double pi = 3.142;
+    const double pi = 3.142;
     double radius;
     cout << "Raidus of circle: ";
     cin >> radius;
